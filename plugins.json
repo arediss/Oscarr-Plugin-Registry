@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "repository": "kedaewyn/Leonarr",
+      "category": "bots"
+    }
+  ]
+}
