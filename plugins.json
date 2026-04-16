@@ -4,6 +4,11 @@
     {
       "repository": "kedaewyn/Leonarr",
       "category": "bots"
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Subscriptions",
+      "category": "subscriptions",
+      "tags": ["plex"]
     }
   ]
 }
