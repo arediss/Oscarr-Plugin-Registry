@@ -9,6 +9,10 @@
       "repository": "arediss/Oscarr-Plugin-Subscriptions",
       "category": "subscriptions",
       "tags": ["plex"]
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Communication",
+      "category": "notifications"
     }
   ]
 }
