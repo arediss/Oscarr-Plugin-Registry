@@ -13,6 +13,16 @@
     {
       "repository": "arediss/Oscarr-Plugin-Communication",
       "category": "notifications"
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Radarr",
+      "category": "automation",
+      "tags": ["radarr"]
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Sonarr",
+      "category": "automation",
+      "tags": ["sonarr"]
     }
   ]
 }
