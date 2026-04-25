@@ -3,7 +3,8 @@
   "plugins": [
     {
       "repository": "kedaewyn/Leonarr",
-      "category": "bots"
+      "category": "bots",
+      "tags": ["discord"]
     },
     {
       "repository": "arediss/Oscarr-Plugin-Subscriptions",
