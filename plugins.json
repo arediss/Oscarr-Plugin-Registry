@@ -24,6 +24,11 @@
       "repository": "arediss/Oscarr-Plugin-Sonarr",
       "category": "automation",
       "tags": ["sonarr"]
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-qBittorrent",
+      "category": "automation",
+      "tags": ["qbittorrent", "downloads"]
     }
   ]
 }
