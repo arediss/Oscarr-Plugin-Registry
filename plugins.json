@@ -29,6 +29,10 @@
       "repository": "arediss/Oscarr-Plugin-qBittorrent",
       "category": "automation",
       "tags": ["qbittorrent", "downloads"]
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Support",
+      "category": "support"
     }
   ]
 }
