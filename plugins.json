@@ -33,6 +33,10 @@
     {
       "repository": "arediss/Oscarr-Plugin-Support",
       "category": "support"
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Quotas",
+      "category": "requests-workflow"
     }
   ]
 }
