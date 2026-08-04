@@ -37,6 +37,11 @@
     {
       "repository": "arediss/Oscarr-Plugin-Quotas",
       "category": "requests-workflow"
+    },
+    {
+      "repository": "arediss/Oscarr-Plugin-Reclaim",
+      "category": "utilities",
+      "tags": ["plex", "radarr", "sonarr"]
     }
   ]
 }
